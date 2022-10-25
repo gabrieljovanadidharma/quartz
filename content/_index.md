@@ -1,5 +1,5 @@
-## Gabriel Jovan
-### Universitas Gadjah Mada | International Relations 2022
+**Gabriel Jovan Adidharma**
+Universitas Gadjah Mada | International Relations 2022
 
 # RESEARCH STARTING POINTS
 ## 1. [Russia-Ukraine](Essay%20Topics/Russia-Ukraine.md)
