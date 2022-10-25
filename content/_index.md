@@ -1,3 +1,7 @@
+---
+enableToc: false
+---
+
 **Gabriel Jovan Adidharma**
 Universitas Gadjah Mada | International Relations 2022
 
