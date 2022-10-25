@@ -7,13 +7,11 @@ COP26 in Glasgow, 31 October-13 November produced the 'Glasgow Climate Pact', in
 **[[cop26 essay]]**
 
 # What the Fuck is COP 26?
-```ad-note
-title: Disambiguation
-Referring to the **2021 United Nations Climate Change Conference**
 
-Why is it called COP 26 ?
-26th Conference of the Parties (**COP**) to the United Nations Frameworks Convention on Climate Change (**UNFCCC**)
-```
+> [!warning] Disambiguation 
+> Referring to the **2021 United Nations Climate Change Conference**
+> Why is it called COP 26 ?
+>26th Conference of the Parties (**COP**) to the United Nations Frameworks Convention on Climate Change (**UNFCCC**)
 
 **Place**: SEC Centre, Glasgow, UK
 **Time**: 31 October 13 November

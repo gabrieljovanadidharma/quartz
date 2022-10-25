@@ -1,18 +1,17 @@
 # Russo-Ukrainian Crisis
 #russia #ukraine
-### Motion: Intake 1
+### Background
 Russia has been amassing forces along its border with Ukraine in the past weeks. While Putin's intention has not been explicitly stated, security analysts suggest that the decision is to prevent Ukraine from joining NATO. This goal may be achieved by either intimidating Ukraine and NATO with military threats or invading Ukraine if necessary. Russia is particularly concerned with this issue since it fears that the US and its allies would place intermediate- and short-range missiles in Ukraine, thereby enabling them to launch attack to Russia's territory directly. 
 
 > Do you agree with Putin's approach to preserve Russia's national security? Why? 
 > How should the international community preserve peace and stability in this crisis?
 
-see [Russia-Ukraine essay](Essay%20Topics/Russia/Russia-Ukraine%20essay.md)
-
-### Intake 2 [Russia-Ukraine Essay 2](Essay%20Topics/Russia/Russia-Ukraine%20Essay%202.md)
+ [Russia-Ukraine Essay](Essay%20Topics/Russia/Russia-Ukraine%20Essay%202.md)
 
 ---
 ## Background Info:
 **[Russian Accusation and demands](Essay%20Topics/Russia/Russian%20Accusation%20and%20demands.md)**
+
 **[Post-Soviet Context(1)](Essay%20Topics/Russia/Post-Soviet%20Context(1).md)**
 - Modern day Russia actually arises in modern-day Ukraine
 - Deep inherent bond between Russia and Ukraine -> believed by Putin
