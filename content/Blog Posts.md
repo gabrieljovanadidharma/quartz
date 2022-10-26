@@ -1,3 +1,7 @@
+---
+enableToc: false
+---
+
 # Blog Posts
 
 1. [Special Region of Yogyakarta: A Democratic Nightmare](https://gabrieljovan.medium.com/special-region-of-yogyakarta-a-democratic-nightmare-84759e803d71)
