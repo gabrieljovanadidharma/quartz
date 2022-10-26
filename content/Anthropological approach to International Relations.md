@@ -1,6 +1,6 @@
 
 ---
-title: "{{Anthropological approach to International Relations}}"
+title: "Anthropological approach to International Relations"
 ---
 
 # Sources
