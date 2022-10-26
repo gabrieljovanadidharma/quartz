@@ -5,7 +5,7 @@ title: "Anthropological approach to International Relations"
 
 # Sources
 
-## Advancing Interdisplinary Approaches to International Relations
+### Advancing Interdisplinary Approaches to International Relations
 
 **Page 153**: Anthropology, Conflict, and International Relations
 
